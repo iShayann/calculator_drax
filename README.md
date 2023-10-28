@@ -40,14 +40,14 @@ Replace your-branch-name with the name of your branch.
 
 4. **Win Digital Reward Kit**:Upon submitting four valid PRs, you'll be eligible to receive the Hacktoberfest Digital Reward Kit.
 
-# IMPORTANT GUIDELINES
+# Important Guidelines
 Ensure your code is clean, well-documented, and follows best coding practices.
 
 Do not submit solutions that are already in the repository.
 
 Feel free to create issues or discussions for problem suggestions, improvements, or general questions.
 
-# EVERYONE IS WELCOME
+# Everyone is Welcome
 
 We welcome contributors of all levels, whether you're a beginner or an experienced coder. If you're new to open source or competitive programming, this is a great opportunity to learn and collaborate with others. If you're an experienced coder, we'd love to have your expertise.
 
