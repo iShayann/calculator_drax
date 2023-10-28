@@ -2,6 +2,8 @@
 
 Welcome to the Hacktoberfest 2023 DSA Challenge Repository! We are excited to have you here and are looking forward to your contributions. This repository is all about Data Structures and Algorithms (DSA), and it features problems from various competitive programming platforms like GeeksforGeeks, LeetCode, and more.
 
+![image](https://github.com/iShayann/calculator_drax/assets/115067200/a4f4d0f0-55e1-4506-b962-b06ebcd15bbc)
+
 ## How to Contribute
 
 To participate in Hacktoberfest and contribute to this repository, follow these steps:
